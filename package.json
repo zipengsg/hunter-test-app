@@ -1,0 +1,23 @@
+{
+  "name": "hunter-test-app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zipengsg/hunter-test-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zipengsg/hunter-test-app/issues"
+  },
+  "homepage": "https://github.com/zipengsg/hunter-test-app#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
